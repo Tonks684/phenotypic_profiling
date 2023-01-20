@@ -1,4 +1,4 @@
-<img src='imgs/IXMtest_A11_s5_w1F88F2E8B-C8BB-4115-BE32-47C903A4C4B2.tiff' align="right" width=360>
+
 
 <br><br><br>
 
