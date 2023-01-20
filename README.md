@@ -1,4 +1,4 @@
-<img src='45701.jpg' align="right">
+<img src='45701.jpg' align="right" width=360>
 
 
 <br><br><br>
