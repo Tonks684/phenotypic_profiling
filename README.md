@@ -1,9 +1,11 @@
-<img src='45701.jpg' align="right" width=360>
+<img src='45701.jpg' align="right" width=380>
 
 
-<br><br><br>
+<br><br><br><br><br><br><br><br><br>
 
 # Phenotypic Profiling
+
+
 ## Description
 Plate 20585 - Phenotypic profiling attempts to summarize multiparametric, feature-based analysis of cellular phenotypes of each sample so that similarities between profiles reflect similarities between samples. This image set provides a basis for testing image-based profiling methods wrt. to their ability to distinguish the effects of small molecules. Images The images are of U2OS cells treated with each of 1600 known bioactive compounds and labeled with six labels that characterize seven organelles (the .cell-painting. assay). This pilot experiment consists of 20 plates. Each plate has 384 wells and each well has 9 fields of view for a total of 69,120 fields of view. Each field was imaged in five channels (detection wavelengths), and each channel is stored as a separate, grayscale image file, so there are 345,600 image files in 16-bit TIFF format.
 
